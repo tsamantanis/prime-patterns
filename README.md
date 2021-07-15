@@ -1,5 +1,9 @@
 # An exploration of Prime numbers in GO
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/tsamantanis/prime-patterns)](https://goreportcard.com/report/github.com/tsamantanis/prime-patterns)
+![Github Code Size (https://img.shields.io/github/languages/code-size/tsamantanis/prime-patterns)](https://img.shields.io/github/languages/code-size/tsamantanis/prime-patterns)
+![Github Last Commit (https://img.shields.io/github/last-commit/tsamantanis/prime-patterns)](https://img.shields.io/github/last-commit/tsamantanis/prime-patterns)
+
 This project aims to find patterns in the sequence of mathematically prime numbers
 
 ## Usage

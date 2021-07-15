@@ -27,12 +27,12 @@ Data will appear in rows in `csv` format.
 After reading the exported data found in `data.csv` it was clear that there exist repeating values in the rate of change of the prime number sequence. It is important to note that this exploration only used the first 1000 prime numbers as the initial data set. Below is an image of the 'first' rate of change - Sequence A - chart created:
 
 > Sequence A
-![Prime Number Velocity](./Prime_Sequence_Velocity.png)
+![Prime Sequence A](./Prime_Sequence_A.png)
 
 By following the same 'hunch' it seems rather obvious that the rate of change of Sequence A - Sequence B, would also appear in a pattern. For that reason the data exploration was repeated this time adding another data set containing Sequence B in the exported data. When graphically recreated using Logger Pro, Sequence B produced the following outcome: 
 
 > Sequence B
-![Prime Number Acceleration](./Prime_Sequence_Acceleration.png)
+![Prime Sequence B](./Prime_Sequence_B.png)
 
 Now it may be unclear on a first glance but in reality Sequence B values are oscillating between positive and negative in a `completely` symmetrical manner. This indicates that recurrence relations may apply. 
 

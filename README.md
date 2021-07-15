@@ -34,8 +34,8 @@ By following the same 'hunch' it seems rather obvious that the rate of change of
 > Sequence B
 ![Prime Sequence B](./Prime_Sequence_B.png)
 
-Now it may be unclear on a first glance but in reality Sequence B values are oscillating between positive and negative in a `completely` symmetrical manner. This indicates that recurrence relations may apply. 
+Now it may be unclear on a first glance but in reality Sequence B values are oscillating between positive and negative in a symmetrical manner. This indicates that recurrence relations may apply. 
 
-From personal experience I hypothesize that the relation of Sequence B is periodic and that we may be able to use complex numbers to solve the equation, as periodical solutions can be found in the roots of unity if no restrictions in the value of k apply.
+From personal experience I hypothesize that the relation of Sequence B could be periodic and that we may be able to use complex numbers to solve the equation, as periodical solutions can be found in the roots of unity if no restrictions in the value of k apply.
 
 I will be attempting to further explore this number set to hopefully find how often the relation values are repeated and create an equation for calculating a value of Sequence B, `x`, using its position in the sequence, `k`.
